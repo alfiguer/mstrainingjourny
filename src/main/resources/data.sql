@@ -1,0 +1,1 @@
+insert into hotel values(10001, 'Journey B&B','A clean and basic hotel','Bangalore',3);
